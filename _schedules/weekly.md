@@ -43,7 +43,7 @@ schedule:
       - name: Seminar
         start: 6:40 PM
         end: 8:30 PM
-        location: Unknown
+        location: Coming Soon...
   - name: Thursday
   - name: Friday
 ---
