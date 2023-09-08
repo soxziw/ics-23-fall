@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Additional Resources
+title: Extra Resources
 nav_order: 2
 ---
 
-# Additional Resources
+# Extra Resources
 
 This page contains extra resources for learning general computer system.
 
