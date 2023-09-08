@@ -28,6 +28,7 @@ timeline:
   - '8:30 PM'
   - '9:00 PM'
 schedule:
+  - name: Timeline
   - name: Monday
     events:
       - name: Lecture
@@ -42,7 +43,7 @@ schedule:
       - name: Seminar
         start: 6:40 PM
         end: 8:30 PM
-        location: 地学 305
+        location: Unknown
   - name: Thursday
   - name: Friday
 ---

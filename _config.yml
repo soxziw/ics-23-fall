@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Seminar on ICS
 tagline: Seminar on Introduction to Computer Systems
-author: James Xiang
-baseurl: '/ics-fa22' # the subpath of your site, e.g. /blog
-url: 'https://xyxiang7.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+author: Eric Xu
+baseurl: '/ICS-23-Fall' # the subpath of your site, e.g. /blog
+url: 'https://soxziw.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -28,7 +28,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   GitHub repo:
-    - 'https://github.com/xyxiang7/ics-fa22'
+    - 'https://github.com/soxziw/ICS-23-Fall'
 aux_links_new_tab: true # Makes Aux links open in a new tab. Default is false
 
 # Collections for website data

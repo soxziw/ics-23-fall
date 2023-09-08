@@ -7,7 +7,7 @@ currWeekNumber: 1
 
 # {{ site.tagline }}
 {: .mb-2 }
-Peking University, 2022 Fall
+Peking University, 2023 Fall
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% if site.announcements %}
