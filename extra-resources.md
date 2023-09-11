@@ -6,7 +6,7 @@ nav_order: 2
 
 # Extra Resources
 
-This page contains extra resources for learning general computer system.
+This page contains extra resources for learning general computer system[.](/ICS-23-Fall/hidden-treasures)
 
 ## General learning materials
 
