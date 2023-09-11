@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hidden Treasures
+nav_exclude: true
+description: A hidden place maintain treasures will soon be exposed.
 ---
 
 # Hidden Treasures
