@@ -9,4 +9,4 @@ Scan the QR code below to join us!
 The phone number *18201658276* could be used as an alternative.  
 Let’s dive into the ocean of ICS together!!!  
 Oops! Don't forget to attach your real name!  
-<img src="../assets/QR.jpg" width="50%">
+<img src="/ICS-23-Fall/assets/QR.jpg" width="50%">
