@@ -4,5 +4,8 @@ week: 1
 date: 2023-09-13
 ---
 
-Fall semester starts.
-Welcome!
+Welcome!!!  
+Scan the QR code below to join us, phone number *18201658276* could be used as an alternative.
+Let’s dive into the ocean of ICS together!!!  
+Oops! don't forget to attach your real name!  
+![QR code](/ICS-23-Fall/assets/QR.jpg)
