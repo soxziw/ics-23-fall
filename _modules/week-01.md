@@ -9,3 +9,4 @@ Sep 13
 : **survey**{: .label .label-yellow}[Seminar Construction](https://www.wjx.cn/vm/QgoYdKb.aspx)
   : **tutorial**{: .label .label-green}[Virtual Environment Installation](https://mp.weixin.qq.com/s/juWtNUnIuFJfXoP_6eKIKg)
 : **survey**{: .label .label-yellow}[Group Selection](https://docs.qq.com/sheet/DUnlUR1VhY0xnamNS)
+: **tutorial**{: .label .label-green}[VScode ssh](https://mp.weixin.qq.com/s/cnEFK1VX2hM_VBev8MdpVQ)
