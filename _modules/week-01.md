@@ -14,3 +14,4 @@ Sep 13
   : **resources**{: .label .label-green}[Warm up](/ICS-23-Fall/assets/23-slides/0-guidance.pdf)
 : **survey**{: .label .label-yellow}[Seminar Construction](https://www.wjx.cn/vm/QgoYdKb.aspx)
   : **survey**{: .label .label-yellow}[Group Selection](https://docs.qq.com/sheet/DUnlUR1VhY0xnamNS)
+: **resources**{: .label .label-green}[Randomness](https://www.random.org/randomness/)
