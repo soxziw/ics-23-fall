@@ -10,8 +10,8 @@ currWeekNumber: 1
 Class 6, Peking University, 2023 Fall
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-{% if site.announcements %}
-{{ site.announcements.last }}
+{% if site.announcements.test %}
+{{ site.announcements.test.last }}
 [Previous Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 

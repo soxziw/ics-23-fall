@@ -7,7 +7,7 @@ description: A feed containing all of the class announcements.
 
 # Announcements
 
-{% assign announcements = site.announcements | reverse %}
+{% assign announcements = site.announcements.test | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
