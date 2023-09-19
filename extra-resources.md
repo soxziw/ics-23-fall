@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extra Resources
-nav_order: 2
+nav_order: 4
 ---
 
 # Extra Resources
