@@ -11,13 +11,7 @@ Class 6, Peking University, 2023 Fall
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% if site.announcements %}
-{% tmp %}
-{% for announcement in announcements %}
-{% if announcement.class == 6 | announcement.class == 0 %}
-{% tmp = announcement %}
-{% endif %}
-{% endfor %}
-{{ tmp }}
+{{ site.announcements.last }}
 [Previous Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
