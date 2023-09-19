@@ -9,5 +9,7 @@ description: A feed containing all of the class announcements.
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
+{% if announcement.class == 9 | announcement.class == 0 %}
 {{ announcement }}
+{% endif %}
 {% endfor %}

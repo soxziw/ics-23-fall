@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schedule
+title: Class 21
 nav_order: 3
 currWeekNumber: 2
 ---
@@ -18,8 +18,10 @@ Class 21, Peking University, 2023 Fall
 ## Schedule
 {% for module in site.modules %}
 {% if module.exclude != true %}
+{% if module.classNumber == 21 %}
 <a name="week-{{module.weekNumber}}"></a>
 {{ module }}
+{% endif %}
 {% endif %}
 {% endfor %}
 
