@@ -26,7 +26,7 @@ This page contains extra resources for learning general computer system[.](/ICS-
 + [Markdown tutorial](https://www.markdowntutorial.com/) ([Chinese version](https://www.markdowntutorial.com/zh-cn/))
 
 ### Linux Basic
-+ [Linux command reference](/ICS-23-Fall/assets/unix-command.pdf)
++ [Linux command reference](/ICS-23-Fall/assets/class6/unix-command.pdf)
 + [Shell, Vim, Git video tutorials](https://disk.pku.edu.cn:443/link/C1CC5B3D50AB76AC6655AFCFC0EF0E7B) by assistants, 2021 fall
 + [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Chinese version](https://missing-semester-cn.github.io/))
 
