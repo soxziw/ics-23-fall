@@ -43,7 +43,7 @@ schedule:
       - name: Seminar
         start: 6:40 PM
         end: 8:30 PM
-        location: Coming Soon...
+        location: 理教314（6），理教404（9）
   - name: Thursday
   - name: Friday
 ---
