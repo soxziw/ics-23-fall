@@ -18,7 +18,7 @@ Class 6, Peking University, 2023 Fall
 ## Schedule
 {% for module in site.modules %}
 {% if module.exclude != true %}
-{% if module.classNumber == "6" %}
+{% if module.classNumber == 6 %}
 <a name="week-{{module.weekNumber}}"></a>
 {{ module }}
 {% endif %}
