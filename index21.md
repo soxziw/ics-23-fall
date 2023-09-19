@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Schedule
-nav_order: 1
-currWeekNumber: 1
+nav_order: 3
+currWeekNumber: 2
 ---
  
 # {{ site.tagline }}
 {: .mb-2 }
-Class 6, Peking University, 2023 Fall
+Class 21, Peking University, 2023 Fall
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-{% if site.announcements.test %}
-{{ site.announcements.test.last }}
+{% if site.announcements %}
+{{ site.announcements.last }}
 [Previous Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
