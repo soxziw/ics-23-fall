@@ -127,6 +127,7 @@ schedule:
         start: 11:30 PM
         end: 12:00 PM
   - name: Date
+    events:
       - name: Sept 11
         start: 8:00 AM
         end: 8:30 AM
