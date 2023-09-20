@@ -27,13 +27,13 @@ This page contains resources for learning ICS and general computer system.
 + [Books](/ICS-23-Fall/books)
 
 ## Tools and tutorials
-### General Usage
+### General usage
 + [Ubuntu Pastebin](https://paste.ubuntu.com/)
 + [Markdown tutorial](https://www.markdowntutorial.com/) ([Chinese version](https://www.markdowntutorial.com/zh-cn/))
 + [Keyboard shortcuts for Windows](/ICS-23-Fall/assets/class21/参考资料/keyboard-shortcuts-windows.pdf)
 + [Intel Manual](/ICS-23-Fall/assets/class21/参考资料/Intel_manual.pdf)
 
-### Linux Basic (for Labs)
+### Linux basic (for labs)
 + [Linux command reference](/ICS-23-Fall/assets/class6/unix-command.pdf)
 + [30min to learn GDB](https://beej.us/guide/bggdb/)
 + [Vim tutorial](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor) ([Chinese&English version](https://github.com/HanielF/VimTutor))
@@ -41,7 +41,7 @@ This page contains resources for learning ICS and general computer system.
 + [Shell, Vim, Git video tutorials](https://disk.pku.edu.cn:443/link/C1CC5B3D50AB76AC6655AFCFC0EF0E7B) by assistants, 2021 fall
 + [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Chinese version](https://missing-semester-cn.github.io/))
 
-### Compiler and Assembler (for Chap 2)
+### Compiler and assembler (for Chap 2)
 + [Compiler Explorer](https://www.godbolt.org/)
 + [Binary Ninja](https://binary.ninja/)
 
