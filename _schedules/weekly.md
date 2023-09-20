@@ -43,7 +43,7 @@ schedule:
       - name: Seminar
         start: 6:40 PM
         end: 8:30 PM
-        location: 理教314（6），理教404（9）
+        location: 理教314（6），理教404（9），地学304（21）
   - name: Thursday
   - name: Friday
 ---
