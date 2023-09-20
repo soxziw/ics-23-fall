@@ -23,7 +23,7 @@ This page contains resources for learning ICS and general computer system.
 + [OI Wiki](https://oi-wiki.org/)
 + [CSDIY Wiki](https://csdiy.wiki) by [Yinmin Zhong](https://github.com/PKUFlyingPig)
 + [Computer Systems Learning Resources: A Recommended List](https://www.overleaf.com/read/txqjnjxyxqqx) by [Zhenbang You](https://github.com/ZhenbangYou)
-+ [Books](/ICS-23-Fall/books.md)
++ [Books](/ICS-23-Fall/books)
 
 ## Tools and tutorials
 ### General Usage
