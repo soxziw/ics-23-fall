@@ -6,7 +6,7 @@ nav_order: 7
 
 # 2023-9-20
 1. 9、21班迁入网站
-2. 更新6、9、21班week2内容
+2. 更新6、9、21班week2内容，更新6班week3提纲
 3. 更新Resources栏内容  
    **About course**
    1. CSAPP中英文电子书
