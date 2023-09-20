@@ -31,7 +31,7 @@ ICS相关资源
 - Linux vim git 使用视频教程: https://disk.pku.edu.cn/#/link/C1CC5B3D50AB76AC6655AFCFC0EF0E7B
 
 其他资源
-- The Missing Semester of Your CS Education: ********https://missing.csail.mit.edu/
+- The Missing Semester of Your CS Education: https://missing.csail.mit.edu/
 - CS自学指南: https://csdiy.wiki/
 
 ## Schedule
