@@ -8,6 +8,7 @@ Sep 20
 : **seminar**{: .label .label-blue}[Information encoding](/ICS-23-Fall/assets/class6/23-slides/2-information%20encoding.pdf)
   : **brief**{: .label .label-blue}[22-data](/ICS-23-Fall/assets/class6/22-slides/2-data-brief.pdf)
 : **discussion**{: .label .label-blue}[Bits, Bytes, Integers, and Floating Point](/ICS-23-Fall/assets/class6/23-slides/discussion/Bits,%20Bytes,%20%20Integers,%20and%20Floating%20Point.pptx)
+  : **survey**{: .label .label-yellow}[Scoring](https://www.wjx.cn/vm/YcBC5N3.aspx)
 
 Extra
 : **doc**{: .label .label-yellow}[Extended Content](https://docs.qq.com/sheet/DUndSVGtZU2dlZENu)
