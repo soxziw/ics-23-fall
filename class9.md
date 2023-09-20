@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Class 9
-nav_order: 2
+nav_order: 3
 currWeekNumber: 2
 ---
  

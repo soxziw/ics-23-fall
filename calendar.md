@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calendar
-nav_order: 5
+nav_order: 6
 description: The weekly event schedule.
 ---
 # Semester Calender
