@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-intensedebate_comments: true
+comments: true
 ---
  
 # {{ site.tagline }}
