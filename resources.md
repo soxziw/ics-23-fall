@@ -47,3 +47,13 @@ This page contains resources for learning ICS and general computer system.
 
 ### Linker (for Chap 7)
 + [ELF-64 Object File Format](/ics-23-fall/assets/class21/参考资料/elf-64-gen.pdf)
+
+<html>
+    <script>
+    var idcomments_acct = '17f4fc2ec1fa7e5d54a76bd636bedd31';
+    var idcomments_post_id;
+    var idcomments_post_url;
+    </script>
+    <span id="IDCommentsPostTitle" style="display:none"></span>
+    <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+</html>
