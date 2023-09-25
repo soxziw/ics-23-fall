@@ -117,7 +117,10 @@ layout: table_wrappers
           {% endif %}
         </footer>
       {% endif %}
-
+      
+      {% if site.intensedebate_comments %}
+        {% include intensedebate-comments.html %}
+      {% endif %}
     </div>
   </div>
 </body>

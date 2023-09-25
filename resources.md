@@ -24,20 +24,20 @@ This page contains resources for learning ICS and general computer system.
 + [OI Wiki](https://oi-wiki.org/)
 + [CSDIY Wiki](https://csdiy.wiki) by [Yinmin Zhong](https://github.com/PKUFlyingPig)
 + [Computer Systems Learning Resources: A Recommended List](https://www.overleaf.com/read/txqjnjxyxqqx) by [Zhenbang You](https://github.com/ZhenbangYou)
-+ [Books](/ICS-23-Fall/books)
++ [Books](/ics-23-fall/books)
 
 ## Tools and tutorials
 ### General usage
 + [Ubuntu Pastebin](https://paste.ubuntu.com/)
 + [Markdown tutorial](https://www.markdowntutorial.com/) ([Chinese version](https://www.markdowntutorial.com/zh-cn/))
-+ [Keyboard shortcuts for Windows](/ICS-23-Fall/assets/class21/参考资料/keyboard-shortcuts-windows.pdf)
-+ [Intel Manual](/ICS-23-Fall/assets/class21/参考资料/Intel_manual.pdf)
++ [Keyboard shortcuts for Windows](/ics-23-fall/assets/class21/参考资料/keyboard-shortcuts-windows.pdf)
++ [Intel Manual](/ics-23-fall/assets/class21/参考资料/Intel_manual.pdf)
 
 ### Linux basic (for labs)
-+ [Linux command reference](/ICS-23-Fall/assets/class6/unix-command.pdf)
++ [Linux command reference](/ics-23-fall/assets/class6/unix-command.pdf)
 + [30min to learn GDB](https://beej.us/guide/bggdb/)
 + [Vim tutorial](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor) ([Chinese&English version](https://github.com/HanielF/VimTutor))
-+ [Git book](/ICS-23-Fall/assets/class21/参考资料/git-book.pdf)
++ [Git book](/ics-23-fall/assets/class21/参考资料/git-book.pdf)
 + [Shell, Vim, Git video tutorials](https://disk.pku.edu.cn:443/link/C1CC5B3D50AB76AC6655AFCFC0EF0E7B) by assistants, 2021 fall
 + [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Chinese version](https://missing-semester-cn.github.io/))
 
@@ -46,4 +46,4 @@ This page contains resources for learning ICS and general computer system.
 + [Binary Ninja](https://binary.ninja/)
 
 ### Linker (for Chap 7)
-+ [ELF-64 Object File Format](/ICS-23-Fall/assets/class21/参考资料/elf-64-gen.pdf)
++ [ELF-64 Object File Format](/ics-23-fall/assets/class21/参考资料/elf-64-gen.pdf)

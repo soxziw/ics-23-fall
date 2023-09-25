@@ -2,6 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
+intensedebate_comments: true
 ---
  
 # {{ site.tagline }}
@@ -9,10 +10,6 @@ nav_order: 1
 Peking University, 2023 Fall
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-[Class 6](/ICS-23-Fall/class6)  
-[Class 9](/ICS-23-Fall/class9)  
-[Class 21](/ICS-23-Fall/class21)
-
-<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://soxziw.github.io/ICS-23-Fall/comments.html" frameborder="0" scrolling="yes" width="300" height="800"></iframe>
-</div>
+[Class 6](/ics-23-fall/class6)  
+[Class 9](/ics-23-fall/class9)  
+[Class 21](/ics-23-fall/class21)
