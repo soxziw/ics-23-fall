@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+</head>
+<body>
+  <div id="gitalk-container"></div>
+  <script>
+    const gitalk = new Gitalk({
+        clientID: 'a9674a5108f0b36e51a5',
+        clientSecret: '47e66ed4999693a2a41309e314c0dc296f042d86',
+        repo: 'ICS-23-Fall',
+        owner: 'soxziw',
+        admin: ['soxziw'],
+        id: document.title,
+        language:'zh-CN',
+        distractionFreeMode: false
+      })
+      gitalk.render('gitalk-container')
+  </script>
+</body>
