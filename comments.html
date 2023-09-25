@@ -6,6 +6,7 @@
   <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 </head>
 <body>
+  <script>location.pathname</script>
   <div id="gitalk-container"></div>
   <script>
     const gitalk = new Gitalk({
@@ -14,7 +15,7 @@
         repo: 'ICS-23-Fall',
         owner: 'soxziw',
         admin: ['soxziw'],
-        id: location.pathname,
+        id: 'discussion',
         language:'zh-CN',
         distractionFreeMode: false
       })
