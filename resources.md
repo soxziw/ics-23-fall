@@ -31,7 +31,7 @@ This page contains resources for learning ICS and general computer system.
 + [Ubuntu Pastebin](https://paste.ubuntu.com/)
 + [Markdown tutorial](https://www.markdowntutorial.com/) ([Chinese version](https://www.markdowntutorial.com/zh-cn/))
 + [Keyboard shortcuts for Windows](/ics-23-fall/assets/class21/参考资料/keyboard-shortcuts-windows.pdf)
-+ [Intel Manual](/ics-23-fall/assets/class21/参考资料/Intel_manual.pdf)
++ [Intel Manual](https://disk.pku.edu.cn:443/link/2403EB6D2D5022AEE08DBCE309BDBC4D)
 
 ### Linux basic (for labs)
 + [Linux command reference](/ics-23-fall/assets/class6/unix-command.pdf)
