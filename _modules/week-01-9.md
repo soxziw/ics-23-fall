@@ -5,7 +5,7 @@ classNumber: 9
 ---
 
 Sep 13
-: **seminar**{: .label .label-blue}[Lesson 01](/ics-23-fall/assets/class9/slides/Lesson_01.pptx)
+: **seminar**{: .label .label-blue}[Lesson 01](/ics-23-fall/assets/class9/slides/Lesson_01.pdf)
   : **resources**{: .label .label-green}[课程资源链接(PPT/教材电子版/往年题)](https://disk.pku.edu.cn/#/link/FA4FB78A737226AF7CFA00F3CF1A010A)
 : **doc**{: .label .label-yellow}[ICS小班#9回课安排](https://docs.qq.com/sheet/DUW1tWHdhQ0FScmJt?tab=BB08J2)
   : **tutorial**{: .label .label-green}[Linux环境配置](https://mp.weixin.qq.com/s/Xa8-OOddoAKoulUQjE8k3Q)
