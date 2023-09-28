@@ -40,6 +40,7 @@ This page contains resources for learning ICS and general computer system.
 + [Git book](/ics-23-fall/assets/class21/参考资料/git-book.pdf)
 + [Shell, Vim, Git video tutorials](https://disk.pku.edu.cn:443/link/C1CC5B3D50AB76AC6655AFCFC0EF0E7B) by assistants, 2021 fall
 + [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Chinese version](https://missing-semester-cn.github.io/))
++ [Shell (disk, redirect, makefile...)](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/linux.html) by [NJU Computer System Basics](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/index.html)
 
 ### Compiler and assembler (for Chap 2)
 + [Compiler Explorer](https://www.godbolt.org/)

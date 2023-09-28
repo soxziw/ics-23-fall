@@ -3,6 +3,13 @@ layout: default
 title: Update Log
 nav_order: 7
 ---
+# 2023-9-27
+1. week3内容更新
+   1. （6班）回课ppt，课前练习解答
+   2. （9班）回课ppt
+   3. （21班）回课ppt
+2. 更新Announcement栏内容，bomblab将于9.29 12:00pm放出
+3. 更新Resources栏内容，Linux Shell操作补充 by 南京大学ICS（计算机系统基础）
 
 # 2023-9-20
 1. 9、21班迁入网站
@@ -23,7 +30,7 @@ nav_order: 7
    2. OI wiki（包含各种工具入门、数据结构&算法内容）
    3. CSDIY（CS自学课程集锦&测评，各种方向都有）by ZYM
    4. 计算机系统学习推荐单（推荐国外纯英教材为主，主要是编程语言&计算机系统方向）by YZB
-   5. 英文教材pdf资源（目前仅放出4本与ICS关联相对较高且推荐程度较高的资源，若有需求随时扩充）@soxziw
+   5. 英文教材pdf资源（目前仅放出4本与ICS关联相对较高且推荐程度较高的资源，若有需求随时扩充@soxziw）by YZB, XJM, SYB
    
    **Tools and tutorials**  
    ***General usage***
