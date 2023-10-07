@@ -11,10 +11,10 @@ Sep 12
   : **tutorial for windows**{: .label .label-green}[Install VMware](https://mp.weixin.qq.com/s/Lsbyk522TbrXagd2Mf_M5w)
 
 Sep 13
-: **seminar**{: .label .label-blue}[Introduction](/ics-23-fall/assets/class6/23-slides/1-intro.pdf)
+: **seminar**{: .label .label-blue}[1-introduction](/ics-23-fall/assets/class6/23-slides/1-intro.pdf)
 : **survey**{: .label .label-yellow}[Seminar Construction](https://www.wjx.cn/vm/QgoYdKb.aspx)
   : **doc**{: .label .label-yellow}[Group Selection](https://docs.qq.com/sheet/DUnlUR1VhY0xnamNS)
 
 Extra
-: **resources**{: .label .label-green}[Warm up](/ics-23-fall/assets/class6/23-slides/0-guidance.pdf)
+: **resources**{: .label .label-green}[0-warm up](/ics-23-fall/assets/class6/23-slides/0-guidance.pdf)
   : **resources**{: .label .label-green}[Randomness](https://www.random.org/randomness/)
