@@ -1,6 +1,6 @@
 ---
-title: Week 2
-weekNumber: 2
+title: Week 3
+weekNumber: 3
 classNumber: 9
 ---
 

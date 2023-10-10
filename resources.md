@@ -26,6 +26,12 @@ This page contains resources for learning ICS and general computer system.
 + [Computer Systems Learning Resources: A Recommended List](https://www.overleaf.com/read/txqjnjxyxqqx) by [Zhenbang You](https://github.com/ZhenbangYou)
 + [Books](/ics-23-fall/books)
 
+## Further education
++ [23PKUCS Tutors](/ics-23-fall/assets/class6/23pkucs_tutors.png)
++ [23PKUAI Tutors](/ics-23-fall/assets/class6/23pkuai_tutors.jpeg)
++ [CSRankings](https://csrankings.org/)
++ [Open CS Application](https://opencs.app/)
+
 ## Tools and tutorials
 ### General usage
 + [Ubuntu Pastebin](https://paste.ubuntu.com/)
