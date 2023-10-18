@@ -3,6 +3,14 @@ layout: default
 title: Update Log
 nav_order: 7
 ---
+
+# 2023-10-18
+1. week4 5内容更新
+   1. （6班）回课ppt，练习解答
+   2. （9班）回课ppt
+   3. （21班）回课ppt
+2. 更新Announcement栏内容，attacklab已于10.12 00:00am放出, archlab将于10.19 00:00am放出
+
 # 2023-9-27
 1. week3内容更新
    1. （6班）回课ppt，课前练习解答
