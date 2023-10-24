@@ -12,5 +12,6 @@ Oct 11
 : **full questions**{: .label .label-green}[4-prep full](/ics-23-fall/assets/class6/23-slides/4-assembly%20func%20prep%20(full).pdf)
   : **survey**{: .label .label-yellow}[Scoring](https://www.wjx.cn/vm/P4Vh366.aspx)
 
-Extra
-: **doc**{: .label .label-yellow}[Extended Content](https://docs.qq.com/sheet/DUndSVGtZU2dlZENu)
+Oct 14
+: **preview**{: .label .label-blue}[5-stack attack & ISA & hardware](/ics-23-fall/assets/class6/23-slides/5-stack%20attack%20&%20ISA%20&%20hardware%20(pre-view).pdf)
+  : **questions**{: .label .label-yellow}[5-prep](/ics-23-fall/assets/class6/23-slides/5-stack%20attack%20&%20ISA%20&%20hardware%20prep.pdf)
