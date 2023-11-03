@@ -15,4 +15,4 @@ Oct 25
 
 Oct 28
 : **preview**{: .label .label-blue}[7-mem & opt](/ics-23-fall/assets/class6/23-slides/7-mem%20&%20opt%20(pre-view).pdf)
-  : **questions**{: .label .label-yellow}[7-mem & opt](/ics-23-fall/assets/class6/23-slides/7-mem%20&%20opt%20prep.pdf)
+  : **questions**{: .label .label-yellow}[7-prep](/ics-23-fall/assets/class6/23-slides/7-mem%20&%20opt%20prep.pdf)
