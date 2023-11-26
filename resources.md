@@ -21,6 +21,7 @@ This page contains resources for learning ICS and general computer system.
 
 ## General learning materials
 + [Warm up](https://disk.pku.edu.cn:443/link/0DE2D1A59336FA8770D0517936415E60) by [Zhenbang You](https://github.com/ZhenbangYou)
++ [Talk on Memory Safty and OOP](https://clipchamp.com/watch/kpt1tByKX9n) by [Zhenbang You](https://github.com/ZhenbangYou); [note](/ics-23-fall/assets/class6/2023.11.22%20ics茶话会%20by%20Jiayi%20Ni.pdf) by Jiayi Ni
 + [OI Wiki](https://oi-wiki.org/)
 + [CSDIY Wiki](https://csdiy.wiki) by [Yinmin Zhong](https://github.com/PKUFlyingPig)
 + [Computer Systems Learning Resources: A Recommended List](https://www.overleaf.com/read/txqjnjxyxqqx) by [Zhenbang You](https://github.com/ZhenbangYou)
