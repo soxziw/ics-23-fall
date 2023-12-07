@@ -11,3 +11,7 @@ Nov 29
   : **solutions**{: .label .label-green}[10-practice solutions](/ics-23-fall/assets/class6/23-slides/10-signal%20&%20io%20practice%20solns.pdf)
 : **full questions**{: .label .label-green}[10-prep full](/ics-23-fall/assets/class6/23-slides/10-signal%20&%20io%20prep%20(full).pdf)
   : **survey**{: .label .label-yellow}[Scoring](https://www.wjx.cn/vm/ePfilJe.aspx)
+
+Dec 2
+: **preview**{: .label .label-blue}[11-virtual memory](/ics-23-fall/assets/class6/23-slides/11-virtual%20memory%20(pre-view).pdf)
+  : **questions**{: .label .label-yellow}[10-prep](/ics-23-fall/assets/class6/23-slides/11-virtual%20memory%20prep.pdf)
