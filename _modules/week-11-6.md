@@ -14,4 +14,4 @@ Nov 29
 
 Dec 2
 : **preview**{: .label .label-blue}[11-virtual memory](/ics-23-fall/assets/class6/23-slides/11-virtual%20memory%20(pre-view).pdf)
-  : **questions**{: .label .label-yellow}[10-prep](/ics-23-fall/assets/class6/23-slides/11-virtual%20memory%20prep.pdf)
+  : **questions**{: .label .label-yellow}[11-prep](/ics-23-fall/assets/class6/23-slides/11-virtual%20memory%20prep.pdf)
