@@ -14,3 +14,6 @@ Dec 13
 : **extended**{: .label .label-green}[Network Overview](/ics-23-fall/assets/class6/23-slides/extra/Network%20Overview.pdf)
   : **extended**{: .label .label-green}[Asynchronous Programming Methods](/ics-23-fall/assets/class6/23-slides/extra/Asynchronous%20Programming%20Methods.pdf)
 : **survey**{: .label .label-yellow}[Scoring](https://www.wjx.cn/vm/Pjvh8Aj.aspx)
+
+Dec 17
+: **questions**{: .label .label-yellow}[13-prep](/ics-23-fall/assets/class6/23-slides/13-sync%20prep.pdf)

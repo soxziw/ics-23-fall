@@ -37,7 +37,7 @@ description: The weekly event schedule.
 | 14   | #25            | Dec 11  | Network Programming I            |                     |                   |
 |      | #26            | Dec 13  | Network Programming II           | Lecture #24/25      | L8 (proxylab) out |
 | 15   | #27            | Dec 18  | Concurrent Programming           |                     |                   |
-|      | #28            | Dec 20  | Synchronization: Basic           | Lecture #26/27/28   |                   |
+|      | #28            | Dec 20  | Synchronization: Basics          | Lecture #26/27/28   |                   |
 | 16   | #29            | Dec 25  | Synchronization: Advanced        |                     |                   |
 |      | #30            | Dec 27  | Final Review                     | Final Review        |                   |
 
