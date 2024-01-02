@@ -16,8 +16,8 @@ This page contains resources for learning ICS and general computer system.
 + [ICS Essentials](https://docs.google.com/presentation/d/1ul_P7xu3-_Rv8fKlbbpNg5fuQJOe9KWpI1p3eX8wwd4/edit?usp=sharing) by [Zhenbang You](https://github.com/ZhenbangYou)
 + [CSAPP 2/E Web Asides](http://csapp.cs.cmu.edu/2e/waside.html)
 + [CSAPP 3/E Web Asides](http://csapp.cs.cmu.edu/3e/waside.html)
-+ [Exam questions from previous years](https://disk.pku.edu.cn:443/link/6AFB908FAB51CCB0845408DC9258369B)
-+ [Other daily exercise by assistants](https://disk.pku.edu.cn:443/link/59354200FC9FC6A5B57CB5C08B0151B5)
++ [Exam questions from previous years](https://disk.pku.edu.cn:443/link/7C776102C86F0E2FB4A0BE64B48BAF9B)
++ [Other daily exercise by assistants](https://disk.pku.edu.cn:443/link/CF79B670E7B3466428A34545600650D8)
 
 ## General learning materials
 + [Warm up](https://disk.pku.edu.cn:443/link/0DE2D1A59336FA8770D0517936415E60) by [Zhenbang You](https://github.com/ZhenbangYou)
